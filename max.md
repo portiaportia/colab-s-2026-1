@@ -1,3 +1,3 @@
 Hi
 
-More things to say
+Max is awesome!
