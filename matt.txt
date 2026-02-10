@@ -1,0 +1,9 @@
+<<<<<<< HEAD
+=======
+Hello
+
+I want to mess this up
+
+trying hard to coflict
+Hello , i added this
+>>>>>>> 335bf6e90522eddd97df444903e323e89a2cdf4a
