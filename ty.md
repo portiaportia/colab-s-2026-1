@@ -1,2 +1,0 @@
-# HELLO
-From Ty
